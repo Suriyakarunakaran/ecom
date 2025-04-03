@@ -1,5 +1,6 @@
 <?php
 include('includes/connect.php');
+hello;
 ?>
 <!DOCTYPE html>
 <html lang="en">
